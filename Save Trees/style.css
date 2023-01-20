@@ -1,0 +1,40 @@
+h1{
+    color: chocolate;
+    text-align: center;
+}
+body{
+text-align:center
+}
+#tree1{
+    width: 300px;
+    border-style:groove;
+    border-width: 20px;
+    border-color: chartreuse;
+    border-radius: 50%;
+}
+#tree2{
+    width: 300px;
+    border-style: double;
+    border-width: 21px;
+    border-color: blueviolet;
+    border-radius: 10%;
+}
+p{
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+}
+#p1{
+    color: fuchsia;
+}
+#p2{
+    color: red;
+}
+#btn1{
+    background-color: lightblue;
+    width: 150px;
+    height:50px;
+    border-radius:30%;
+    font-weight: bold;
+    font-size: large;
+}
